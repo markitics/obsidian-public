@@ -1,13 +1,13 @@
-
-![[Recording 20220601041943.webm]]
 [[2022Q2]] 2022-05-31
 
+### A few notes to test publishing a post
 I just had a delicious meal.
 
 Swapped a few WhatsApp messages with Duffy earlier. Told him I had started trying Obsidian yesterday; he said the same to me!
 
-I should book my flights for London this weekend — will probably fly via Dublin airport; should be fun!
+I should book my flights for London this weekend — will probably fly via Dublin airport; should be fun! [Update: I've booked a flight to LCY on Friday.]
 
+### Vim mode 🙌
 Oh, so this is awesome; Obsidian has vim mode! 
 
 First impression: This *would* be awesome on my iPad except that my smart folio keyboard has no Escape button, and I don’t know how to do key bindings! Nonetheless, it should be fun on the Mac! 
